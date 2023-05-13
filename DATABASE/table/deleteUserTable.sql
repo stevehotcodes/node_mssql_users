@@ -1,0 +1,5 @@
+CREATE OR ALTER PROC deleteUserTable
+AS
+BEGIN
+DROP TABLE assessUserTable
+END
