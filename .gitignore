@@ -1,0 +1,6 @@
+.env
+node_modules
+tsconfig.json
+app.http
+dist
+assessment.rar
